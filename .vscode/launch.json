@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio3POO",
+            "request": "launch",
+            "mainClass": "Ejercicio3POO",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2POO",
+            "request": "launch",
+            "mainClass": "Ejercicio2POO",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1POO",
+            "request": "launch",
+            "mainClass": "Ejercicio1POO",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo1Abstraccion",
+            "request": "launch",
+            "mainClass": "Ejemplo1Abstraccion",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
             "name": "Ejemplo1Polimorfismo",
             "request": "launch",
             "mainClass": "Ejemplo1Polimorfismo",
