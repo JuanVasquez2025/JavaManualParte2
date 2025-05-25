@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejemplo1Polimorfismo",
+            "request": "launch",
+            "mainClass": "Ejemplo1Polimorfismo",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo1Herencia",
+            "request": "launch",
+            "mainClass": "Ejemplo1Herencia",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1Encapsulamiento",
+            "request": "launch",
+            "mainClass": "Ejercicio1Encapsulamiento",
+            "projectName": "JavaPOO_8d1e06c"
+        },
+        {
+            "type": "java",
+            "name": "JuegoAnimales",
+            "request": "launch",
+            "mainClass": "JuegoAnimales",
+            "projectName": "JavaPOO_8d1e06c"
+        }
+    ]
+}
